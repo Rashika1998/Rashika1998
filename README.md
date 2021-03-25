@@ -17,9 +17,9 @@ Hello everyone! I am Rashika. Welcome to my profile.
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a&label=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashika1998&&show_icons=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a" alt="a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="a" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

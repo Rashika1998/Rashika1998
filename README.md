@@ -17,7 +17,7 @@ Hello everyone! I am Rashika. Welcome to my profile.
 <h3 align="center">A Passionate Frontend and Backend Developer From Sri Lanka</h3>
 
 
-<div style="align:center;">
+<div style="content-justify: center;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/Rashika1998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="a" height="30" width="40" /></a>

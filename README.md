@@ -16,7 +16,6 @@ Hello everyone! I am Rashika. Welcome to my profile.
 
 <h3 align="center">A Passionate Frontend and Backend Developer From Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashika1998&&show_icons=Profile%20views&color=0e75b6&style=flat" alt="a" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

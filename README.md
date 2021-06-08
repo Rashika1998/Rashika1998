@@ -2,7 +2,6 @@
 
 ![github image](https://user-images.githubusercontent.com/58544163/117676064-d598c080-b1ca-11eb-8bb6-ee3860dbcd7f.png)
 
-
 - 🔭 I’m currently working on few researches.
 - 🌱 I’m currently learning mobile application development.
 - 👯 I’m looking to collaborate on youtube: https://www.youtube.com/channel/UCWPrNFLCtIgoiSkvLNf08xg. 

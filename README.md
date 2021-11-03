@@ -3,13 +3,13 @@
 ![github image](https://user-images.githubusercontent.com/58544163/117676064-d598c080-b1ca-11eb-8bb6-ee3860dbcd7f.png)
 
 - 🔭 I’m currently working on few researches.
-- 🌱 I’m currently learning mobile application development.
+- 🌱 I’m currently learning Spring Boot framework, Hibernate and Spring Data Jpa.
 - 👯 I’m looking to collaborate on youtube: https://www.youtube.com/channel/UCWPrNFLCtIgoiSkvLNf08xg. 
-- 🤔 I’m looking for help with how to use advanced cloud services.  
-- 💬 Ask me about mobile application development than web application development.
-- 📫 How to reach me: gameappex@gmail.com
+- 🤔 I’m looking for help with how to implement RESTful web services and Microservices.  
+- 💬 Ask me about web application development with Spring boot framework, React & angular and mobile application development with Flutter and React Native.
+- 📫 How to reach me: rashikamr1998@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ The fact: I am on my way to do a great thing.
+- ⚡ The fact: I am on my way to do a great things.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rashika1998&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

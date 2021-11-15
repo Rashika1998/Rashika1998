@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Rashika. Welcome to my profile.</h1>
+<h1 align="center">Hi 👋, I'm Rashika. Welcome to my profile.</h1>
 
 ![github image](https://user-images.githubusercontent.com/58544163/117676064-d598c080-b1ca-11eb-8bb6-ee3860dbcd7f.png)
 

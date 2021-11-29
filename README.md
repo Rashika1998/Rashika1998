@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashika. Welcome to my profile.</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58544163/143925462-2078db63-dca2-4bef-8365-b28e73982a90.png" width="100%" />
+  <img src="https://user-images.githubusercontent.com/58544163/143927092-a7037177-8a38-4fdf-968d-18fecc76d20c.png" width="100%" />
 </p>
 
 - 🔭 I’m currently working on few researches.

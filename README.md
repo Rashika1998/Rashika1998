@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rashika. Welcome to my profile.</h1>
-![Blue International Programmers Day Modern Instagram Story (1)](https://user-images.githubusercontent.com/58544163/143923864-7e961698-71e7-4387-ad7f-7077833817cb.png)
 
-![github image](https://user-images.githubusercontent.com/58544163/117676064-d598c080-b1ca-11eb-8bb6-ee3860dbcd7f.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58544163/143925462-2078db63-dca2-4bef-8365-b28e73982a90.png" width="100%" />
+</p>
 
 - 🔭 I’m currently working on few researches.
 - 🌱 I’m currently learning Spring Boot framework, Hibernate and Spring Data Jpa.

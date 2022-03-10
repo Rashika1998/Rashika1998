@@ -14,7 +14,7 @@
 - ⚡ The fact: I am on my way to do a great things.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rashika1998&theme=vue-dark&show_icons=true" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=rashika1998&theme=calm&show_icons=true" width="100%">
 </p>
 <h3 align="center">A Passionate Full Stack Developer From Sri Lanka</h3>
 

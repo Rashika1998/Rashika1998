@@ -5,10 +5,10 @@
 </p>
 
 - 🔭 I’m currently working on few researches.
-- 🌱 I’m currently learning Spring Boot framework, Hibernate and Spring Data Jpa.
+- 🌱 I’m currently learning Spring Boot, Hibernate and Spring Data Jpa, Microservices.
 - 👯 I’m looking to collaborate on youtube: https://www.youtube.com/channel/UCWPrNFLCtIgoiSkvLNf08xg. 
-- 🤔 I’m looking for help with how to implement RESTful web services and Microservices.  
-- 💬 Ask me about web application development with Spring boot framework, React & angular and mobile application development with Flutter and React Native.
+- 🤔 I’m looking for help with how to implement deployments on Docker & Kubernetes.  
+- 💬 Ask me about web application development with Spring boot framework, React & angular and mobile application development with Flutter and Java.
 - 📫 How to reach me: rashikamr1998@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ The fact: I am on my way to do a great things.

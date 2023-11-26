@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashika. Welcome to my profile.</h1>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashika1998&theme=calm" width="100%" />
-</p>
-
 - 🔭 I’m currently working on few researches.
 - 🌱 I’m currently learning Spring Boot, Hibernate and Spring Data Jpa, Microservices.
 - 👯 I’m looking to collaborate on youtube: https://www.youtube.com/channel/UCWPrNFLCtIgoiSkvLNf08xg. 
@@ -13,9 +9,6 @@
 - 😄 Pronouns: He/His
 - ⚡ The fact: I am on my way to do a great things.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rashika1998&theme=calm&show_icons=true" width="100%">
-</p>
 <h3 align="center">A Passionate Full Stack Developer From Sri Lanka</h3>
 
 <h3 align="center">Connect with me:</h3>
